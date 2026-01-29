@@ -1,0 +1,17 @@
+{
+  "backup_date": "2026-01-29 09:45:13",
+  "system_info": {
+    "system": "Windows",
+    "release": "11",
+    "version": "10.0.26100",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel"
+  },
+  "computer_name": "LAPTOP-P6F9N5F6",
+  "user_name": "dreame",
+  "success_count": 10,
+  "fail_count": 1,
+  "backup_path": "D:\\www\\claude-config",
+  "claude_config_path": "C:\\Users\\dreame\\.claude",
+  "platform_info": "Windows-11-10.0.26100-SP0"
+}

@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\www\\需求文档",
+        "installPath": "C:\\Users\\dreame\\.claude\\plugins\\cache\\claude-plugins-official\\frontend-design\\6d3752c000e2",
+        "version": "6d3752c000e2",
+        "installedAt": "2026-01-22T03:38:08.103Z",
+        "lastUpdated": "2026-01-22T03:38:08.103Z",
+        "gitCommitSha": "6d3752c000e2b3d0e6137bd7adb04895d6f40f14"
+      }
+    ],
+    "superpowers@superpowers-marketplace": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\www\\需求文档",
+        "installPath": "C:\\Users\\dreame\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\4.0.3",
+        "version": "4.0.3",
+        "installedAt": "2026-01-22T03:38:44.875Z",
+        "lastUpdated": "2026-01-22T03:38:44.875Z",
+        "gitCommitSha": "a01a135fe185559ff9dc84dd70d6e9bb57d92bdf"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "project",
+        "installPath": "C:\\Users\\dreame\\.claude\\plugins\\cache\\claude-plugins-official\\code-review\\6d3752c000e2",
+        "version": "6d3752c000e2",
+        "installedAt": "2026-01-23T10:12:52.475Z",
+        "lastUpdated": "2026-01-23T10:12:52.475Z",
+        "gitCommitSha": "6d3752c000e2b3d0e6137bd7adb04895d6f40f14",
+        "projectPath": "D:\\www\\需求文档"
+      }
+    ]
+  }
+}
